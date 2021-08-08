@@ -1,3 +1,5 @@
 export const EVENTS = {
-	message: 'message'
+	message: 'message',
+	send: 'send',
+	test: 'test'
 };
